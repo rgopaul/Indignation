@@ -59,13 +59,14 @@ sysinfo.txt
 crashlytics-build.properties
 
 [Aa]ssets/Characters
-[Aa]ssets/Ground_textures_pack
-[Aa]ssets/Rock_Package
-[Aa]ssets/RPG_Character_Animation_Pack_FREE
+[Aa]ssets/Ground textures pack
+[Aa]ssets/Rock Package
+[Aa]ssets/RPG Character Animation Pack FREE
 [Aa]ssets/Samples
 [Aa]ssets/Shields
 [Aa]ssets/Terrain
-[Aa]ssets/Warrior_Pack_Bundle_2_FREE
-[Aa]ssets/Warrior_Pack_Bundle_3_FREE
-[Aa]ssets/Wispy_Sky
+[Aa]ssets/Warrior Pack Bundle 2 FREE
+[Aa]ssets/Warrior Pack Bundle 3 FREE
+[Aa]ssets/Wispy Sky
+[Aa]ssets/PostProcessing*
 
